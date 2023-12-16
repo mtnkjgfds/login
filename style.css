@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('po.avif')no-repeat;
+    background: url('./po.avif') no-repeat;
     background-size: cover;
     background-position: center;
 }
